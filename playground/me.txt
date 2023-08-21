@@ -1,5 +1,0 @@
-{{#user}}
-Name: Farhan
-Skills: HTML, CSS, JS, React.js, Node.js, Express, Mongodb
-Email: farhananwar784@gmail.com
-{{/user}}
